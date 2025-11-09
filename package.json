@@ -1,0 +1,12 @@
+{
+  "name": "convertguru-backend",
+  "version": "1.0.0",
+  "description": "Secure PDF/Excel/Word converter backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
